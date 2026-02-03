@@ -1,0 +1,26 @@
+*{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+    color:rgb(0, 0, 0);
+}
+
+.navbar-custom {
+    padding-top: 2em;
+    height: 20em;
+   
+    
+}
+
+.bg-connection{
+background: linear-gradient(#acacac 75%, #333);
+
+}
+
+.bg-custom {
+   background-color: #acacac;
+   padding: 5rm;
+   
+}
+

@@ -1,0 +1,33 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css");
+
+*{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+    color:rgb(0, 0, 0);
+}
+
+.navbar-custom {
+    padding-top: 2em;
+    height: 20em;
+    
+} 
+
+
+.bg-connection{
+/**background: linear-gradient(#7c7c7c 75%, #333);*/
+background: #acacac;
+list-style-type: none;
+ 
+
+}
+
+.bg-custom {
+   background-color: #acacac;
+    padding: 0.5rem;
+   
+}
+
+
+
